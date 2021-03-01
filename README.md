@@ -13,6 +13,7 @@ Wall – the ninja cannot walk through the walls and cannot contain a shuriken.
 The player can use the arrow in the keyboard to move the ninja around the maze to locate all the shuriken.
 The game ends when there are no more shurikens left to find.
 Your task is to build an angular application that implements this new game.
+You can use online editor: https://codesandbox.io/
 The assets for our amazing game are located here:
 https://github.com/Yogev-Varonis/Varonis-Ninja/tree/main/src/assets
 
@@ -20,10 +21,10 @@ What we are looking for
 Design skills, correct classes, components, clean code, reusability, and scalability.
 
 Extra credit
-Logging
-No bugs
-Comments
-Heroku link for a working application
+	Logging
+	No bugs
+	Comments
+	Heroku link for a working application
 
 # Once you’re done
 
